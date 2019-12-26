@@ -1,0 +1,24 @@
+<!DOCTIPY html>
+<html lang="port br">
+
+<head>
+</head>
+    <title> Tudo sobre Google Glass </title>
+
+<body>
+
+Google Glass
+A revolução do Google está chegando
+AQUI ENTRA UMA FOTO
+Menu principal
+- Home
+- Especificações
+- Fotos
+- Multimidia
+- Fale Conosco
+
+Tecnologia < inovações
+Saiba tudo sobre google glass por Gustavo Guanabara
+
+</body>
+</html>
