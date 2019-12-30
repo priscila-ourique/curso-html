@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+.title {
+    padding: 10px;
+    margin: 10px;
+    font-size: 26px;
+    color: #606060;
+    font-family: 'Montserrat', sans-serif;
+}
