@@ -23,7 +23,7 @@ Fontes: https://fonts.google.com/
 
 CSS:
 
-- Sempre usar class para identicar, incluindo t�tulos como h1, h2 e etc;
+- Sempre usar class para identificar, incluindo t�tulos como h1, h2 e etc;
 - Cor RGBA - cor que usa transpar�ncia;
 - Color:inherit (heran�a de outro elemento(elemento pai) com a mesma cor, assim ao mudar num muda em outro);
 - em (p.e:1m): espa�o relativo ao tamanho da fonte;
