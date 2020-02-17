@@ -1,0 +1,3 @@
+Anotações:
+Resposivo: @media screen and (min-width:48.75em)
+cálculo: 780px / 16px(fonte) = 48.75em
