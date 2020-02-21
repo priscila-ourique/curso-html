@@ -1,3 +1,9 @@
 Anotações:
 Resposivo: @media screen and (min-width:48.75em)
 cálculo: 780px / 16px(fonte) = 48.75em
+
+Resposivo: @media scren and (min-width:62.5em)
+cálculo: 1000px/16=62.5em
+
+@media scren and (min-width:64em) {
+Cálculo:1024px/16=64em
